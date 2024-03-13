@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ON-Store-Shopping-app/static/css/main.47093ca2.chunk.css",
+    "main.js": "/ON-Store-Shopping-app/static/js/main.f5115965.chunk.js",
+    "main.js.map": "/ON-Store-Shopping-app/static/js/main.f5115965.chunk.js.map",
+    "runtime~main.js": "/ON-Store-Shopping-app/static/js/runtime~main.821f3e3f.js",
+    "runtime~main.js.map": "/ON-Store-Shopping-app/static/js/runtime~main.821f3e3f.js.map",
+    "static/css/2.386bbb70.chunk.css": "/ON-Store-Shopping-app/static/css/2.386bbb70.chunk.css",
+    "static/js/2.270eb38e.chunk.js": "/ON-Store-Shopping-app/static/js/2.270eb38e.chunk.js",
+    "static/js/2.270eb38e.chunk.js.map": "/ON-Store-Shopping-app/static/js/2.270eb38e.chunk.js.map",
+    "index.html": "/ON-Store-Shopping-app/index.html",
+    "precache-manifest.9936b773c7181c9eeb588409fefbb61d.js": "/ON-Store-Shopping-app/precache-manifest.9936b773c7181c9eeb588409fefbb61d.js",
+    "service-worker.js": "/ON-Store-Shopping-app/service-worker.js",
+    "static/css/2.386bbb70.chunk.css.map": "/ON-Store-Shopping-app/static/css/2.386bbb70.chunk.css.map",
+    "static/css/main.47093ca2.chunk.css.map": "/ON-Store-Shopping-app/static/css/main.47093ca2.chunk.css.map",
+    "static/media/banner.png": "/ON-Store-Shopping-app/static/media/banner.de985aa0.png",
+    "static/media/font-awesome.min.css": "/ON-Store-Shopping-app/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/notfound.png": "/ON-Store-Shopping-app/static/media/notfound.3474d0aa.png"
+  }
+}
